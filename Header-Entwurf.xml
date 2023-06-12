@@ -12,8 +12,8 @@
                 </author>
                 <respStmt>
                     <persName>
-                        <surname>Dogunke</surname>
-                        <forename>Swantje</forename>
+                        <surname>Franz</surname>
+                        <forename>Simone</forename>
                     </persName>
                     <resp>
                         <note type="remarkResponsibility">Bearbeitung der digitalen Edition.</note>
@@ -102,24 +102,134 @@
     </teiHeader>
     <text>
         <body>
-            <!-- Gleich werde ich den Seitenanfang durch das selbstschließene pb-Element einleiten und einen Verweis auf das Digitalisat einfügen -->
-            <pb facs="https://collections.thulb.uni-jena.de/rsc/viewer/HisBest_derivate_00015941/Mittheilungen_Perthes_ErgBl_129602507_1903_144_0005.tif"/>
-            <!-- Das stört etwas, aber leider müssen wir die Tagebucheinträge in ein Kapitel einordnen. Wir nehmen als "Kapitel" unsere Nummer vom Beginn -->   
-            <div type="chapter" n="001">
-                    <div type="diaryEntry" n="1">
-                        <p>Hier steht ein Tagebucheintrag
-                        <lb/>Und hier ist die zweite Zeile
-                        </p>
-                    </div>
-                    <div type="diaryEntry" n="2">
-                        <p>Hier steht ein zweiter Tagebucheintrag</p>
-                        <!-- Wie nervig. Der Tagebucheintrag wird durch einen Seitenwechsel unterbrochen -->
-                        <pb facs="https://collections.thulb.uni-jena.de/rsc/viewer/HisBest_derivate_00015941/Mittheilungen_Perthes_ErgBl_129602507_1903_144_0006.tif"/>
-                    </div>
-                <div type="diaryEntry">
-                    <p>Hier steht ein dritter Tagebucheintrag</p>
-                </div>
-             </div>
+           <pb facs=" https://e-learning.hdm-stuttgart.de/moodle/pluginfile.php/459707/mod_folder/content/0/188143c267d-12.pdf"/>
+           <div type="chapter" n="005">
+              <div type="diaryEntry" n="7">
+                 <p>Dienstag, den 25. Januar. Es ist sehr schönes Wetter, ruhig, die Luft vollkommen
+                 <lb/>durchsichtig, der Himmel wolkenlos und die strahlende Sonnenwärme sehr intensiv. Morgens-
+                 <lb/>7 Uhr gehen wir an Land. Lecointe und Dobrowolski zu astronomischen Beobachtungen,
+                 <lb/>Danco zu magnetischen, Racovitza um Pflanzen und Tiere zu sammeln, Cook um photo-
+                 <lb/>graphische Aufnahmen zu machen und ich selbst um Gesteinsproben zu sammeln. Die
+                 <lb/>Landung der Chronometer und Präzisionsinstrumente war nicht gerade leicht, denn die
+                 <lb/>Felsen waren steil und das Boot unruhig; aber alles ging schließlich gut von statten.
+                 <lb/>Einmal an Land brauchten wir, dank der Arbeitsteilung, unsere Zeit nicht länger zu
+                 <lb/>verlieren, so daß wir schon um 10 Uhr bereit waren, wieder an Bord zu gehen. Der Ort
+                 <lb/>unserer vierten Landung war ausgezeichnet. Lecointe konnte eine große Zahl wichtiger
+                 <lb/>Punkte aufnehmen und die Lage der Two Hummock-Insel, die vor uns lag, feststellen,
+                 <lb/>während Racovitza die Algen und Flechten, die man stellenweise auf den Felsen sah, auf-
+                 <lb/>merksam untersuchte. Der Doktor und ich schnallten uns kanadische Schneeschuhe an und
+                 <lb/>bestiegen die Anhöhen der Insel. Diese Schneeschuhe erleichter das Gehen sehr und ermög-
+                 <lb/>lichen es auch, sehr leicht an Stellen zu gehen, wo man sich, ohne so etwas an den Füßen-
+                 <lb/>zu haben, kaum hinwagen dürfte. Der Abhang steigt sanft an; stellenweise bloß mußten
+                 <lb/>wir an ziemlich gefährlichen Gletscherspalten vorbeigehen. Der dicke Eismantel erstreckt
+                 <lb/>sich bis an den Kamm des Vor-
+                 <lb/>gebirges, und da die andere Seite
+                 <lb/>steil abfällt, so bricht das Firnfeld
+                 <lb/>plötzlich ab. Mitunter muß das Eis-
+                 <lb/>in großen Blöcken in den Abgrund-
+                 <lb/>stürzen. Ich wagte mich über eine
+                 <lb/>Längsspalte und da konnte ich sehen,
+                 <lb/>72
+                 <lb/>daß das Eisstück, auf welchem ich
+                 <lb/>war, sich in sehr labiler Gleich-
+                 <lb/>gewichtslage hielt. Ein Kap (neben-
+                 <lb/>stehende Zeichnung), das ich in
+                 <lb/>geringer Entfernung in südlicher
+                 <lb/>Richtung sah, zeigte mir, wie die
+                 <lb/>Dinge vor sich gehen müssen. Der Abhang dieses Gebirges ist zu steil, als daß der Schnee
+                 <lb/>sich festsetzen könnte; nach oben dagegen krönt eine dicke Firnschicht den Steilrand. Zahl-
+                 <lb/>reiche Vertikalausschnitte bezeichnen die Stellen, an denen die Lawinen in die Tiefe stürzen,
+                 <lb/>und am Fuße lehnt sich eine beträchtliche Anhäufung von Schnee an den Felsen und fällt
+                 <lb/>mit einer kleinen Eiswand ins Meer ab.
+                  
+              <pb facs="https://e-learning.hdm-stuttgart.de/moodle/pluginfile.php/459707/mod_folder/content/0/188143c7faa-13.pdf"/>
+                 <lb/>Die Sonne sandte ihre Strahlen auf den glänzenden Schnee, und ich war so erhitzt,
+                 <lb/>daß ich vorzog, den Marsch nicht mehr weiter mit Cook fortzusetzen. Ich tat gut daran,
+                 <lb/>mich hinzusetzen, denn die Landschaft war großartig, und in dem Schweigen und der Ruhe
+                 <lb/>der Einsamkeit konnte ich die starken Eindrücke, die ich empfand, besser auf mich ein-
+                 <lb/>wirken lassen und die Schönheit dieser ungeheuren Polarwelt bewundern, die ganz neu für
+                 <lb/>mich war. Ich hätte gerne dieses ausgedehnte Panorama, in welchem ich fortwährend neue
+                 <lb/>Einzelheiten gewahr wurde, für immer in mein Gedächtnis eingeprägt. Ich blickte in süd-
+                 <lb/>licher und südöstlicher Richtung aus. Umfangreiches Land, soweit man sehen kann, bildet
+                 <lb/>den Hintergrund der Hughes-Bucht, die wir vor uns haben. Im ganzen genommen nimmt
+                 <lb/>sich dieses Land folgendermaßen aus: Eine Landstrecke mit ganz alpinem Relief liegt voll-
+                 <lb/>ständig unter Gletschern vergraben. Gegen das Innere des Landes zu steigen die Schnee-
+                 <lb/>felder allmählich an und bilden einen vollkommen zusammenhängenden Horizont. Es ist
+                 <lb/>das Inlandeis. Dort mögen isolierte Felsklippen, Bergrücken und tiefe Täler sich befinden,
+                 <lb/>aber man sieht nichts davon; alles ist mit Eis bedeckt. Tiefer nach unten ist die Sache
+                 <lb/>anders; das Relief des Bodens macht sich auch durch die dicke Hülle bemerkbar, und es
+                 <lb/>brechen stellenweise Felsspitzen durch. Aber nackte Felsen sind nicht zu sehen. Ich strengte
+                 <lb/>mich an, die allgemeine Streichrichtung der Bergkette herauszufinden; aber es gelang mir
+                 <lb/>nicht. Mehr in der Nähe des Meeres sind Bergkämme sichtbar und durch die Täler, die
+                 <lb/>verschiedene Richtungen annehmen, kommen Gletscher verschiedener Größe herab. Der Küste
+                 <lb/>entlang sind Vorgebirge, von denen einige unbedeckt sind, und in den tieferen Partien liegen
+                 <lb/>die Enden der Gletscher, die dort noch mit Schneefeldern bedeckt sind und die unten sich
+                 <lb/>meistens wieder vereinigen und so die Plattformen entstehen lassen, von welchen dann die
+                 <lb/>Eisberge ihren Ursprung nehmen. In dem allgemeinen Relief werden die Täler nicht sicht-
+                 <lb/>bar; sie scheinen gar nicht vorhanden zu sein, denn sie sind sozusagen vollständig begraben,
+                 <lb/>und die Bergrücken lassen sich nicht leicht unterscheiden. Aber Täler sind sicher vorhanden,
+                 <lb/>denn die Eisströme, die nach der Bucht hinabziehen, sind in ihrem Aussehen sehr verschieden.
+                 <lb/>Die ganz großen Gletscher haben im allgemeinen ein sanftes Gefälle, andere dagegen
+                 <lb/>sind durch Spalten zerklüftet. Ich unterscheide auch Gehängegletscher, die außerordentliche
+                 <lb/>Dimensionen erreichen. Anderseits müssen sich die großen Gletscher beim Austritt aus den
+                 <lb/>Tälern ausbreiten. So sieht man schon beim bloßen Anblick der Eishülle, wie das Relief
+                 <lb/>dieser Länder modelliert sein muß; unter jedem Gletscher muß eine tiefe Aushöhlung sein,
+                 <lb/>ein Bett, in welchem das Eis sanft abfließt. Die Tatsache der Existenz von Tälern erscheint
+                 <lb/>mir sehr wichtig, denn sie erinnert uns daran, daß es eine Zeit gegeben haben muß, in
+                 <lb/>welcher diese ganze Eishülle nicht vorhanden war und in welcher das fließende Wasser-
+                 <lb/>von Strömen und Flüssen in Tätigkeit war. Anderseits fühle ich mich beim Anblick dieser
+                 <lb/>Länder in die Region der Kanäle von Feuerland zur Zeit der großen Ausdehnung von
+                 <lb/>Gletschern versetzt. Dort an der Südspitze Amerikas mußte die Andenkette zur Eiszeit das
+                 <lb/>Äussehen antarktischen Landes bieten.
+                 <lb/>Um 11 Uhr morgens waren wir wieder an Bord der »Belgica«. Man setzte die Fahrt
+                 <lb/>in nordöstlicher Richtung fort, um an der Südostküste von Palmerland entlang zu fahren und
+                 <lb/>dieselbe aufzunehmen. Um 2 Uhr befinden wir uns einem Kap gegenüber, das eine Richtungs-
+                 <lb/>änderung des Verlaufs der Küste bezeichnet. Wir gehen zum fünftenmal an Land. Die
+                 <lb/>einzige geeignete Stelle, die wir zu einer Landung finden konnten, lag im Hintergrund einer
+                 <lb/>kleinen Bucht. Um an Land zu kommen, mußsten wir ins Wasser springen, da Geröll und
+                 <lb/>abgerundete dicke Blöcke den Strand bildeten. Wir zogen das Boot aus dem Wasser und als
+                 <lb/>wir fort wollten, wären wir beinahe von den Wellen, die sich inzwischen gebildet hatten,
+                 <lb/>auf die Felsen geworfen worden.
+                 <lb/>Bei dieser fünften Landung hatte ich wiederum das Vergnügen, erratisches Gestein zu   
+                  
+              <pb facs="https://e-learning.hdm-stuttgart.de/moodle/pluginfile.php/459707/mod_folder/content/0/188143ce698-14.pdf"/>
+                 <lb/>sammeln, denn diese Geröllanhäufung, die die kleine Bucht erfüllt, entstammt einer Moräne.
+                 <lb/>Verschiedene Granite, große Gneisblöcke, Porphyre, Basalt und anderes vulkanisches Gestein,
+                 <lb/>Quarzite dec. Ich frage mich, wie sich dort so verschiedenartiges Gestein hat ansammeln
+                 <lb/>können. Daß es vom Treibeis hergeführt worden, glaube ich nicht; mir scheint, daß nur
+                 <lb/>zwei Hypothesen über seine Herkunft in Frage kommen können. Entweder ist es der
+                 <lb/>im Hintergrund der Bucht emporragende Gletscher, der diesen Schutt hergeführt hat, oder
+                 <lb/>er rührt aus Zeiten her, wo die Eisverhältnisse ganz andere waren als die jetzigen. Die
+                 <lb/>erstere Hypothese scheint mir unwahrscheinlich, denn die Steine sind abgeschliffen, sie
+                 <lb/>kommen von weither. Diese Tatsache kann indes nicht gerade als Beweis dienen, denn
+                 <lb/>die Wellen mußten seither ebenfalls ihre Tätigkeit bemerkbar machen. Auf der anderen
+                 <lb/>Seite aber paßt das Relief des Bodens gar nicht zu einer bedeutenden Gletscherbildung an
+                 <lb/>dieser Stelle. Die Bergkette der Insel, an der wir entlang fahren, ist sehr nahe an der
+                 <lb/>Küste, sehr steil, und die senkrechten Abhänge und der Bergkamm sind vollständig eisfrei.
+                 <lb/>Bloß die tieferen Seitenlagen des Gebirges sind mit Gehängegletschem bedeckt, die an dem
+                 <lb/>Ufer endigen, mitunter auch über die Küste hinausragen. Es sind »Küstengletscher«,
+                 <lb/>die sich direkt nach dem Meere zu bewegen müssen. Das Eis, das seinen Austritt ins
+                 <lb/>Meer nimmt, kann also nicht weit herkommen und die Materialien, die es mit sich bringt,
+                 <lb/>müssen dieselben sein, wie die, aus welchen das Gebirge besteht. Aber dort an jener
+                 <lb/>Moräne ist zu verschiedenartiges Gestein, als daß alles von dem benachbarten Gebirge
+                 <lb/>herrühren kann, es entstammt unbestreitbar sehr verschiedenen Orten einer zweifellos weit
+                 <lb/>ausgedehnten Landstrecke. Wenn also die gefundenen Gesteinsarten sich nicht auf Palmer-
+                 <lb/>land wiederfinden, so müssen sie vom Kontinent kommen, vom Inneren von Grahamland
+                 <lb/>oder sogar weiter her. Folglich müßten diese Gesteinsarten von einer ehemaligen Seiten-
+                 <lb/>moräne eines ungeheueren Gletschers herrühren, der diese große Hughes-Bucht ausgefüllt
+                 <lb/>hätte, und es muß auf alle Fälle in diesem Erdstrich eine Zeit großer Gletscherausdehnung
+                 <lb/>gegeben haben, d. h. eine Eiszeit. Um die Richtigkeit dieser Schlußfolgerung zu beweisen,
+                 <lb/>wären zahlreiche Beobachtungen erforderlich; massenhafte Landungen wären nötig, um
+                 <lb/>umfangreichere Kenntnisse von der Geologie dieser Länder zu bekommen und andere Spuren
+                 <lb/>der Quartärgletscher zu entdecken.
+                 <lb/>Um 4 Uhr steuern wir südsüdöstlich nach der Insel unserer ersten Landung. Der
+                 <lb/>Himmel bedeckt sich etwas. Zuerst erscheinen Cirruswolken von flammenförmiger Gestalt,
+                 <lb/>dann Alto-Cumulus; die Cirrus verwandeln sich in Cirro-Stratus und schließlich bildet sich
+                 <lb/>vor Sonnenuntergang ein niedriger Nebel über der See und verdichtet sich alsbald. Aber
+                 <lb/>kurz nach Sonnenuntergang zerteilt er sich, die Luft wird klar, und wir sehen von neuem
+                 <lb/>die Inseln und hohen Gebirge im S.</p> 
+          </div>
+         </div>
             
         </body>
     </text>
